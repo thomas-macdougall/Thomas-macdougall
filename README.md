@@ -1,6 +1,6 @@
 ## My Portfolio 👨‍🌾
 
-**farmer/machine learning enthusiast/just thinking tech is cool**
+**farmer/machine learning enthusiast**
 
 Hello, I'm Thomas, I am enthusiastic about machine learning, reinforcement learning and farming. 
 
