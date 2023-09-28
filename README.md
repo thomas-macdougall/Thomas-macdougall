@@ -1,16 +1,19 @@
-### Hi there 👋
+## My Portfolio 👨‍🌾
 
-<!--
-**thomas-macdougall/Thomas-macdougall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**farmer/machine learning enthusiast/just thinking tech is cool**
 
-Here are some ideas to get you started:
+Hello, I'm Thomas, I am enthusiastic about machine learning, reinforcement learning and farming. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## Contact
+
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/thomas-macdougall-a29703188/)
+- Email: thomasmacddougall@gmail.com
+
+
